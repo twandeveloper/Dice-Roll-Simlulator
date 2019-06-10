@@ -57,7 +57,7 @@ public class Main {
 
     private static void rollDice(){
         double result = dice.rollDice();
-        System.out.println("You roll a " + result);
+        System.out.println("You rolled a " + result);
     }
 
 
